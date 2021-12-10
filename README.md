@@ -11,4 +11,6 @@ Project description - Developed a healthcare chat bot that will give different r
 
 Summary - This project is developed using HTML, CSS, JavaScript, Nodejs, Qnamaker, Azure Bot Service, Visual Studio Code and deployed on Microsoft Azure.
 
+Project screenshot 
+
 ![Screenshot (25)](https://user-images.githubusercontent.com/76840115/145606900-cdf29b06-52ce-4941-bad3-6978b81b1745.png)
