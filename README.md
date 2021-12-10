@@ -1,7 +1,7 @@
 # Healthcare-ChatBot
 https://healthcarechatbot.z22.web.core.windows.net/
 
-Industry - Healthcare
+Industry - Health
 
 Project title - Chat Bot
 
