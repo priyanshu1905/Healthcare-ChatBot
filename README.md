@@ -9,7 +9,7 @@ Problem statement - Hospitals can't solve their patient's problems by talking to
 
 Project description - Developed a healthcare chat bot that will give different responses from the same input given by users/patients according to current conversation issue. Using this chat bot patients can book appointment, check previous reports and schedule checkup.
 
-Summary - This project is developed using HTML, CSS, JavaScript, Nodejs, Qnamaker, Azure Bot Service, Visual Studio Code and deployed on Microsoft Azure.
+Summary - This project is developed using HTML, CSS, JavaScript, Nodejs, Qnamaker, Azure Bot Service, Azure Web App, Visual Studio Code and deployed on Microsoft Azure.
 
 Project screenshot -
 
